@@ -163,7 +163,7 @@ final V putVal(int hash, K key, V value, boolean onlyIfAbsent,
 * 红黑树转链表：当红黑树节点数 ≤ 6 时触发（红黑树维护成本高，节点少时常量级查询用链表更高效）。
 
 ### 七、代码示例：验证 HashMap 特性
-[Java集合/Map集合/HashMapDemo.java]()
+[Java集合/Map集合/HashMapDemo.java](https://github.com/LiChaoaixuexi/my-JavaStudy/blob/master/src/Java%E9%9B%86%E5%90%88/Map%E9%9B%86%E5%90%88/HashMap/HashMapDemo.java)
 
 ### 八、总结
 
