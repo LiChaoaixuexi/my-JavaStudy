@@ -48,7 +48,7 @@ Map 是顶层接口，定义了键值对（Key-Value）的存储规范，核心�
 
 ### 二、Map 集合关系图谱
 
-![Map关系图谱](src/Java集合/Map集合/Map关系图谱.png)
+![Map关系图谱](https://github.com/LiChaoaixuexi/my-JavaStudy/blob/master/src/Java%E9%9B%86%E5%90%88/Map%E9%9B%86%E5%90%88/Map%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1.png)
 
 ### 三、关系图谱核心逻辑说明
 
