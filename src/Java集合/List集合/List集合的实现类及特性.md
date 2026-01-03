@@ -54,7 +54,7 @@ Java 中的 `List` 集合是 **有序、可重复** 的元素集合，继承自 
 
 ### 二、List 集合关系图谱
 
-![List关系图谱](src/Java集合/List集合/List关系图谱.png)
+![List关系图谱](https://github.com/LiChaoaixuexi/my-JavaStudy/blob/master/src/Java%E9%9B%86%E5%90%88/List%E9%9B%86%E5%90%88/List%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1.png)
 
 
 ### 三、关系图谱说明
